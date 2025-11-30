@@ -1,0 +1,4 @@
+﻿promotion_files
+
+password=123456
+password_file=security.txt

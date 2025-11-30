@@ -1,0 +1,11 @@
+﻿
+output=.\Ciallo
+
+
+depth=0
+
+max_size=27
+
+
+password=123456
+marker_file=usb_protected.marker    
